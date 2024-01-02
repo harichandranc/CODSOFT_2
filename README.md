@@ -1,3 +1,2 @@
 # CODSOFT_2
-Task 2
-portfolio 
+Task 2 - portfolio 
